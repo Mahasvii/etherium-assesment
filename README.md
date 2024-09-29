@@ -1,7 +1,3 @@
-Here’s the updated `README.md` with the token name and symbol changed from **META** to **BETA** and from **MTA** to **BTA**:
-
----
-
 # BETA Token Contract
 
 This is a simple ERC-20-like token contract written in Solidity that defines a basic token called "BETA" with the symbol "BTA". The contract allows minting and burning of tokens.
